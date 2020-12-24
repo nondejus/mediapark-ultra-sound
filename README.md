@@ -1,2 +1,2 @@
-# mediapark-nuclear-sound-weapon
-24/7
+mediapark-ultra-sound-nuclear-weapon
+====================================
